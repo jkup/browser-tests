@@ -1,4 +1,4 @@
-# browser-tests
+# Browser Tests
 
 A public repo for experiments I run on multiple browsers
 
